@@ -62,5 +62,5 @@ Most of my professional work is hosted in private repositories due to confidenti
 
 ## Contact
 
-- LinkedIn: [Diego Molinero Moreno](TU_ENLACE_DE_LINKEDIN)
+- LinkedIn: [Diego Molinero Moreno](https://www.linkedin.com/in/diego-molinero-moreno/)
 - Email: diegomolinero842@gmail.com
